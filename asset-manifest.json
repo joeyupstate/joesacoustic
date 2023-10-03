@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/joesacoustic/static/css/main.6a2df685.css",
+    "main.js": "/joesacoustic/static/js/main.8e8e3ccc.js",
+    "static/media/3.jpeg": "/joesacoustic/static/media/3.2661dd1643d6db37da94.jpeg",
+    "static/media/2.jpeg": "/joesacoustic/static/media/2.8320004563074bd8283e.jpeg",
+    "static/media/6.jpg": "/joesacoustic/static/media/6.a9b0caed2662a241dfe7.jpg",
+    "static/media/4.jpeg": "/joesacoustic/static/media/4.e46a8b26d15146201310.jpeg",
+    "static/media/5.jpeg": "/joesacoustic/static/media/5.d38a648c4aba4f62e8ee.jpeg",
+    "static/media/8.jpeg": "/joesacoustic/static/media/8.3d56612d997cec37a647.jpeg",
+    "static/media/1.jpeg": "/joesacoustic/static/media/1.3aae79f69e3d6db3b8dd.jpeg",
+    "static/media/7.jpeg": "/joesacoustic/static/media/7.60cf2c2cca65fcdd11a5.jpeg",
+    "index.html": "/joesacoustic/index.html",
+    "main.6a2df685.css.map": "/joesacoustic/static/css/main.6a2df685.css.map",
+    "main.8e8e3ccc.js.map": "/joesacoustic/static/js/main.8e8e3ccc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a2df685.css",
+    "static/js/main.8e8e3ccc.js"
+  ]
+}
